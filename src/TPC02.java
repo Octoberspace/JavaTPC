@@ -21,7 +21,7 @@ public class TPC02 {
 		
 		System.out.println(g);
 		
-		Book bk;
+		//Book bk;
 		
 	}
 }

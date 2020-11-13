@@ -7,5 +7,11 @@ public class TPC31 {
 		Inflearn.tpc();
 		//inf.java();
 		Inflearn.java();
+		
+		//System sys = new System();
+		System.out.println("출력");
+		//Math m = new Math();
+		int v= Math.max(10, 20);
+		System.out.println(v);
 	}
 }
